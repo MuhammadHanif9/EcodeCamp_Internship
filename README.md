@@ -20,9 +20,9 @@ Users can input stock symbols and get predictions on future prices.
 ### Visualizations: 
 Graphical representation of predicted vs actual stock prices.
 ## Project Structure
-predictor.py: Main application file for Streamlit.
-train.ipynb: Jupyter notebook for training the machine learning model.
-model.pkl: Saved model file.
+#### predictor.py: Main application file for Streamlit.
+#### train.ipynb: Jupyter notebook for training the machine learning model.
+#### model.pkl: Saved model file.
 ## Challenges and Learnings
 This project pushed me out of my comfort zone, especially with deploying the model and handling real-time data. I’m a bit nervous about how it will be received, but also proud of the progress I’ve made. It’s been a great learning experience, thanks to the support and guidance from ecodecamp.
 
